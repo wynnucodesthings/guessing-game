@@ -44,6 +44,6 @@ def guessing():
                 guess_count += 1
 
 
-print("number guesser by DarkenMo")
+print("number guesser.")
 # calling the game
 guessing()
