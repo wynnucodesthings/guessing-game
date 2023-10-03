@@ -1,4 +1,2 @@
-# guessing-game
-Simple guessing game made in python
-
-- this is a simple project nothing more
+# Introduction:
+This is my first ever python project and I thought I would leave it here.
